@@ -1,2 +1,2 @@
 # CopyHelper
- A minecraft mod aiming to make copying item/block name easier.
+A simple minecraft mod aiming to make copying item/block/entity registry name easier.
